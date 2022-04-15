@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-caesar-cipher-extension": "github:microbit-cz/pxt-caesar-cipher-extension#3ac13a4a59e00f1e34c78c5725a57b32d9722764"
     },
     "files": [
         "README.md",
